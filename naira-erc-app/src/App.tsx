@@ -1,10 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
+
+import {Converter} from './Main/Converter'
 import './App.css';
 
 function App() {
   return (
-   
+   <Converter/>
   );
 }
 
